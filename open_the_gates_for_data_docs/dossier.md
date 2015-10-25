@@ -43,36 +43,36 @@ Persona's
 ---------
 
 
-| Vincent | |
-|--|--|
-| Naam 		| Vincent Decoster 				|
-| Leeftijd 	| 29 							|
-| Woonplaats| Limburg						|
-| Beroep 	| Treinmachinist				|
-| Hobby's 	| Hardlopen en gitaar spelen 	|
-| Thuis		| Alleenstaand 					|
+| Vincent | | 
+|---|---| 
+| Naam 		| Vincent Decoster 				| 
+| Leeftijd 	| 29 							| 
+| Woonplaats| Limburg						| 
+| Beroep 	| Treinmachinist				| 
+| Hobby's 	| Hardlopen en gitaar spelen 	| 
+| Thuis		| Alleenstaand 					| 
 | 			| Vincent is een rustige en creatieve man. Hij heeft een iPhone 5 die handig uitkomt wanneer hij moet wachten op zijn shift op het werk. Dan kan hij sociale media checken en ook enkele spelletjes spelen. |
 
 
 | Sarah | |
-|--|--|
-| Naam 		| Sarah Hesseling 				|
-| Leeftijd 	| 35							|
-| Woonplaats| Oostenrijk					|
-| Beroep 	| Huismoeder					|
-| Hobby's 	| Tekenen 						|
-| Thuis		| Getrouwd, 2 kinderen			|
+|---|---|
+| Naam 		| Sarah Hesseling 				| 
+| Leeftijd 	| 35							| 
+| Woonplaats| Oostenrijk					| 
+| Beroep 	| Huismoeder					| 
+| Hobby's 	| Tekenen 						| 
+| Thuis		| Getrouwd, 2 kinderen			| 
 | 			| Sarah zorgt goed voor haar kinderen nu ze haar baan heeft opgezegd. Ze houd haar overdag bezig met huishoudelijke taken, en 's avonds zakt ze samen met haar man onderuit in de zetel voor de TV. Ze heeft een Samsung Galaxy Mini, waar ze regelmatig het nieuws mee checkt.|
 
 
 | Mike | |
-|--|--|
-| Naam 		| Mike Statts 				    |
-| Leeftijd 	| 19							|
-| Woonplaats| Verenigd Koninkrijk			|
-| Beroep 	| Student						|
-| Hobby's 	| Uitgaan 						|
-| Thuis		| Alleenstaand					|
+|---|---| 
+| Naam 		| Mike Statts 				    | 
+| Leeftijd 	| 19							| 
+| Woonplaats| Verenigd Koninkrijk			| 
+| Beroep 	| Student						| 
+| Hobby's 	| Uitgaan 						| 
+| Thuis		| Alleenstaand					| 
 | 			| Mike is vaak te vinden bij zijn vrienden. Hij houdt van uitgaan en is alles behalve rustig. Hij is erg slim, waardoor hij niet veel moet studeren en veel vrije tijd heeft. Op de trein en op de bus houdt hij zich regelmatig bezig op zijn nieuwe iPhone 6 Plus.|
 
 Moodboards
@@ -97,3 +97,4 @@ Sitemap
 Wireframes
 ----------
 
+![Wireframes](images/wireframes.png "Wireframes")
