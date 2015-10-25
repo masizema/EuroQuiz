@@ -4,7 +4,7 @@ EuroQuiz
 Briefing en analyse
 -------------------
 
-EuroQuiz is een webapp die langs de ene kant data weergeeft over de landen in Europa (oppervlakte, belastingen).  
+EuroQuiz is een webapplicatie die langs de ene kant data weergeeft over de landen in Europa (oppervlakte, belastingen).  
 Ook is er de mogelijkheid van het spelen van een quiz. Een quiz waarbij je wordt beoordeeld op snelheid, maar ook correctheid van de twintig antwoorden. Nadien is het mogelijk je antwoorden te bekijken, en ook je score te delen via facebook of twitter.
 
 Technische specificaties
