@@ -82,11 +82,11 @@ Moodboards
 
 ---
 
-![Moodboard 2](images/moodboard2.png "Moodboard 2")
+![Moodboard 2](images/moodboard2.jpg "Moodboard 2")
 
 ---
 
-![Moodboard 3](images/moodboard3.png "Moodboard 3")
+![Moodboard 3](images/moodboard3.jpg "Moodboard 3")
 
 Sitemap
 -------
