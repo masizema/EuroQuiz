@@ -62,7 +62,7 @@ Persona's
 | Beroep 	| Huismoeder					| 
 | Hobby's 	| Tekenen 						| 
 | Thuis		| Getrouwd, 2 kinderen			| 
-| 			| Sarah zorgt goed voor haar kinderen nu ze haar baan heeft opgezegd. Ze houd haar overdag bezig met huishoudelijke taken, en 's avonds zakt ze samen met haar man onderuit in de zetel voor de TV. Ze heeft een Samsung Galaxy Mini, waar ze regelmatig het nieuws mee checkt.|
+| 			| Sarah zorgt goed voor haar kinderen nu ze haar baan heeft opgezegd. Ze houdt haar overdag bezig met huishoudelijke taken, en 's avonds zakt ze samen met haar man onderuit in de zetel voor de TV. Ze heeft een Samsung Galaxy Mini, waar ze regelmatig het nieuws mee checkt.|
 
 
 | Mike | |
