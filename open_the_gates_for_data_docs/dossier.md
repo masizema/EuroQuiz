@@ -55,7 +55,7 @@ Persona's
 
 
 | Sarah | |
-|---|---|
+|-------|---|
 | Naam 		| Sarah Hesseling 				| 
 | Leeftijd 	| 35							| 
 | Woonplaats| Oostenrijk					| 
@@ -98,3 +98,8 @@ Wireframes
 ----------
 
 ![Wireframes](images/wireframes.png "Wireframes")
+
+Style tiles
+-----------
+
+![Style tiles 1](images/styletile1.png "Style tiles 1")
