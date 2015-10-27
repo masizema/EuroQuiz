@@ -75,6 +75,15 @@ Persona's
 | Thuis		| Alleenstaand					| 
 | 			| Mike is vaak te vinden bij zijn vrienden. Hij houdt van uitgaan en is alles behalve rustig. Hij is erg slim, waardoor hij niet veel moet studeren en veel vrije tijd heeft. Op de trein en op de bus houdt hij zich regelmatig bezig op zijn nieuwe iPhone 6 Plus.|
 
+---
+
+| Foto | ![Vincent](https://randomuser.me/api/portraits/med/men/48.jpg "Vincent") |  
+| Naam | Vincent Decoster |  
+| Beroep |  |  
+| Demografisch |  |  
+| Internetgebruik |  |  
+| Quote |  |   
+
 Moodboards
 ----------
 
@@ -107,3 +116,7 @@ Style tiles
 ---
 
 ![Style tiles 2](images/styletile2.png "Style tiles 2")
+
+---
+
+![Style tiles 3](images/styletile3.png "Style tiles 3")
