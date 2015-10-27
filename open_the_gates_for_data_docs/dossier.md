@@ -42,60 +42,66 @@ De topscores van de gebruiker zullen opgeslagen worden door gebruik te maken van
 Persona's
 ---------
 
-
-| Vincent | | 
-|---|---| 
+| Vincent ||
+|---|---|
+| Foto | ![Vincent](images/person1.png "Vincent") |  
 | Naam 		| Vincent Decoster 				| 
 | Leeftijd 	| 29 							| 
 | Woonplaats| Limburg						| 
 | Beroep 	| Treinmachinist				| 
 | Hobby's 	| Hardlopen en gitaar spelen 	| 
-| Thuis		| Alleenstaand 					| 
-| 			| Vincent is een rustige en creatieve man. Hij heeft een iPhone 5 die handig uitkomt wanneer hij moet wachten op zijn shift op het werk. Dan kan hij sociale media checken en ook enkele spelletjes spelen. |
+| Thuis		| Alleenstaand 					|   
+| Karaktertrekken | Introvert, passief, rustig, creatief |
+| Levensdoelen | Doorgroeien naar een hogere functie |
+| Technologisch | Vincent gebruikt vooral zijn smartphone. Hij heeft een desktop, maar laat deze meestal gewoon langs de kant staan. |
+| Favoriete websites | Youtube, Facebook en Het Laatste Nieuws |  
+| Omschrijving | Vincent is een rustige en creatieve man. Hij heeft een iPhone 5 die handig uitkomt wanneer hij moet wachten op zijn shift op het werk. Dan kan hij sociale media checken en ook enkele spelletjes spelen. |
 
 
-| Sarah | |
-|-------|---|
+| Sarah ||
+|---|---|
+| Foto | ![Sarah](images/person2.png "Sarah") |  
 | Naam 		| Sarah Hesseling 				| 
-| Leeftijd 	| 35							| 
-| Woonplaats| Oostenrijk					| 
-| Beroep 	| Huismoeder					| 
-| Hobby's 	| Tekenen 						| 
-| Thuis		| Getrouwd, 2 kinderen			| 
-| 			| Sarah zorgt goed voor haar kinderen nu ze haar baan heeft opgezegd. Ze houdt haar overdag bezig met huishoudelijke taken, en 's avonds zakt ze samen met haar man onderuit in de zetel voor de TV. Ze heeft een Samsung Galaxy Mini, waar ze regelmatig het nieuws mee checkt.|
+| Leeftijd 	| 35 							| 
+| Woonplaats| Antwerpen						| 
+| Beroep 	| Huismoeder        			| 
+| Hobby's 	| Tekenen | 
+| Thuis		| Getrouwd en moeder van 2 kinderen | 
+| Karaktertrekken | Introvert, passief, rustig, creatief |
+| Levensdoelen | Haar kinderen opvoeden. |
+| Technologisch | Sarah gebruikt overdag haar laptop, maar 's avonds verkiest ze toch haar smartphone. |
+| Favoriete websites | Youtube, Facebook en Het Laatste Nieuws |  
+| Omschrijving | Sarah zorgt goed voor haar kinderen nu ze haar baan heeft opgezegd. Ze houdt haar overdag bezig met huishoudelijke taken, en 's avonds zakt ze samen met haar man onderuit in de zetel voor de TV. Ze heeft een Samsung Galaxy Mini, waar ze regelmatig het nieuws mee checkt. |
 
-
-| Mike | |
-|---|---| 
-| Naam 		| Mike Statts 				    | 
-| Leeftijd 	| 19							| 
+| Mike ||
+|---|---|
+| Foto | ![Mike](images/person3.png "Mike") |  
+| Naam 		| Mike Statts 				| 
+| Leeftijd 	| 19 							| 
 | Woonplaats| Verenigd Koninkrijk			| 
-| Beroep 	| Student						| 
-| Hobby's 	| Uitgaan 						| 
-| Thuis		| Alleenstaand					| 
-| 			| Mike is vaak te vinden bij zijn vrienden. Hij houdt van uitgaan en is alles behalve rustig. Hij is erg slim, waardoor hij niet veel moet studeren en veel vrije tijd heeft. Op de trein en op de bus houdt hij zich regelmatig bezig op zijn nieuwe iPhone 6 Plus.|
+| Beroep 	| Student           			| 
+| Hobby's 	| Uitgaan met vrienden          | 
+| Thuis		| Alleenstaand 					| 
+| Karaktertrekken 	| Extravert, actief |
+| Levensdoelen 		| Een diploma behalen, en vrienden maken. |
+| Technologisch 	| Mike gebruikt vooral zijn laptop. Op de bus of de trein gebruikt hij meer zijn smartphone. |
+| Favoriete websites| Youtube, Facebook, Twitter |  
+| Omschrijving 		| Mike is vaak te vinden bij zijn vrienden. Hij houdt van uitgaan en is alles behalve rustig. Hij is erg slim, waardoor hij niet veel moet studeren en veel vrije tijd heeft. Op de trein en op de bus houdt hij zich regelmatig bezig op zijn nieuwe iPhone 6 Plus. |
+
+Ideëenborden
+------------
+
+![Ideëenbord 1](images/idee1.png "Ideëenbord 1")
 
 ---
 
-| Foto | ![Vincent](https://randomuser.me/api/portraits/med/men/48.jpg "Vincent") |  
-| Naam | Vincent Decoster |  
-| Beroep |  |  
-| Demografisch |  |  
-| Internetgebruik |  |  
-| Quote |  |   
+![Ideëenbord 2](images/idee2.png "Ideëenbord 2")
 
-Moodboards
+
+Moodboard
 ----------
 
-![Moodboard 1](images/moodboard1.png "Moodboard 1")
-
----
-
-![Moodboard 2](images/moodboard2.jpg "Moodboard 2")
-
----
-
-![Moodboard 3](images/moodboard3.jpg "Moodboard 3")
+![Moodboard](images/moodboard.png "Moodboard")
 
 Sitemap
 -------
@@ -120,3 +126,5 @@ Style tiles
 ---
 
 ![Style tiles 3](images/styletile3.png "Style tiles 3")
+
+### Finale Style Tile
