@@ -103,3 +103,7 @@ Style tiles
 -----------
 
 ![Style tiles 1](images/styletile1.png "Style tiles 1")
+
+---
+
+![Style tiles 2](images/styletile2.png "Style tiles 2")
