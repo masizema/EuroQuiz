@@ -97,6 +97,10 @@ Ideëenborden
 
 ![Ideëenbord 2](images/idee2.png "Ideëenbord 2")
 
+---
+
+![Ideëenbord 3](images/idee3.png "Ideëenbord 3")
+
 
 Moodboard
 ----------
