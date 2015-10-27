@@ -95,7 +95,7 @@ Ideëenborden
 
 ---
 
-![Ideëenbord 2](images/idee2.png "Ideëenbord 2")
+![Ideëenbord 2](images/idee2.jpg "Ideëenbord 2")
 
 ---
 
