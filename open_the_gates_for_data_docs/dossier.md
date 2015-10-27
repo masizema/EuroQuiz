@@ -67,7 +67,7 @@ Persona's
 | Beroep 	| Huismoeder        			| 
 | Hobby's 	| Tekenen | 
 | Thuis		| Getrouwd en moeder van 2 kinderen | 
-| Karaktertrekken | Introvert, passief, rustig, creatief |
+| Karaktertrekken | Zorgend, verantwoordelijkheidszin, conservatief |
 | Levensdoelen | Haar kinderen opvoeden. |
 | Technologisch | Sarah gebruikt overdag haar laptop, maar 's avonds verkiest ze toch haar smartphone. |
 | Favoriete websites | Youtube, Facebook en Het Laatste Nieuws |  
@@ -112,7 +112,7 @@ Sitemap
 Wireframes
 ----------
 
-![Wireframes](images/wireframes.png "Wireframes")
+![Wireframes](images/wireframes3.png "Wireframes")
 
 Style tiles
 -----------
@@ -128,3 +128,5 @@ Style tiles
 ![Style tiles 3](images/styletile3.png "Style tiles 3")
 
 ### Finale Style Tile
+
+![Style tiles final](images/styletile_final.png "Style tiles final")
