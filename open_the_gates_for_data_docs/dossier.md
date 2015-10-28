@@ -116,7 +116,13 @@ Sitemap
 Wireframes
 ----------
 
-![Wireframes](images/wireframes3.png "Wireframes")
+### Mobiel
+
+![Wireframes](images/wireframes_mobiel.png "Wireframes")
+
+### Desktop
+
+![Wireframes](images/wireframes_desktop.png "Wireframes")
 
 Style tiles
 -----------
